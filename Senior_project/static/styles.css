@@ -1,0 +1,11 @@
+h1.mt-5 {
+    background-color: rgb(60, 60, 239);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.card-body {
+    background-color: white; 
+}
+
